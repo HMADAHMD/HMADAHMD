@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HMADAHMD
-- 👀 I’m interested in IOS Development
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on Swift learning
+- 👋 Hi, I’m @HMADAHMD.
+- 👀 I’m interested in Mobile Development.
+- 🌱 I’m currently learning Flutter & Dart.
+- 💞️ I’m looking to collaborate on Mobile Development.
 - 📫 How to reach me [You can reach me here or --> ssgsk86@gmail.com]
 
 <!---
